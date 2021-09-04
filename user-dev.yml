@@ -25,3 +25,5 @@ eureka:
     lease-renewal-interval-in-seconds: 5
     # 服务失效时间，默认90s
     lease-expiration-duration-in-seconds: 5
+test:
+  name: heima
